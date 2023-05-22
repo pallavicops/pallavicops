@@ -1,3 +1,6 @@
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/71969138/211175364-5625ae5b-016a-413a-b2f6-630a70c9e390.gif)
+
+
 <h1 align="center">Hi 👋, I'm Pallavi Kumari</h1>
 <h3 align="center">I am a student of Information Science and Engineering, I love to code and solve problem. Currently exploring mobile app development using Flutter.</h3>
 
