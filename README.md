@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pallavi Kumari</h1>
-<h3 align="center">I am a student of Information Science and Engineering, I love to code and solve problem. Currently exploring mobile app development using Flutter.</h3>
+<h3 align="center">I am a student of Information Science and Engineering, I love to code and solve problem. Currently exploring mobile app development using Flutter and web development using ReactJS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavicops&label=Profile%20views&color=0e75b6&style=flat" alt="pallavicops" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **NaukariTak**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter & React**
 
-- 💬 Ask me about **Flutter, Coding**
+- 💬 Ask me about **Flutter, Coding, ReactJs**
 
 - 📫 How to reach me **pallavicops@gmail.com**
 
