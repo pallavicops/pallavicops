@@ -1,7 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Pallavi Kumari</h1>
-<h3 align="center">I am a student of Information Science and Engineering, I love to code and solve problem. Currently exploring mobile app development using Flutter and web development using ReactJS.</h3>
+<h3 align="center"> A motivated developer with experience in building and deploying applications across front-end, back-end, mobile, and web 
+environments. Eager to contribute to impactful projects and grow through continuous learning and collaboration.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavicops&label=Profile%20views&color=0e75b6&style=flat" alt="pallavicops" /> </p>
 
